@@ -60,11 +60,11 @@ WiFi and it still blinks and breathes; plug it back in and it's REX again.
 
 ## Gallery
 
-| | | |
+| Idle | Sleepy | Behind the scenes |
 |---|---|---|
-| ![Expression 1](media/photos/expression-1.jpg) | ![Expression 2](media/photos/expression-2.jpg) | ![Expression 3](media/photos/expression-3.jpg) |
+| ![REX idle, angled view](media/photos/idle-angle.jpg) | ![REX with a sleepy expression](media/photos/expression-sleepy.jpg) | ![REX's internals — ESP32-S3, amp, and wiring inside the case](media/photos/internals.jpg) |
 
-![Case, 3/4 view](media/photos/case-angle.jpg)
+![REX from behind, case and cable routing](media/photos/from-behind.jpg)
 
 ## How it works
 

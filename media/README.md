@@ -5,11 +5,15 @@ automatically — no need to edit any links.
 
 ## `photos/`
 
+Have: `hero.jpg`, `idle-angle.jpg`, `expression-sleepy.jpg`, `from-behind.jpg`,
+`internals.jpg`.
+
+Still worth adding:
+
 | Filename | Shot |
 |---|---|
-| `hero.jpg` | Front-on, screen lit, neutral/idle face, good lighting. This is the first thing a visitor sees — take a few and pick the sharpest. |
-| `expression-1.jpg`, `expression-2.jpg`, `expression-3.jpg` | Close-ups of three different expressions (e.g. happy, skeptical, evil) to show the animation range. Say `/emotion <name>` over serial, or just ask REX to make a face, and shoot the screen. |
-| `case-angle.jpg` | 3/4 view of the enclosure — shows the case design and the exterior USB-C port. |
+| `expression-2.jpg`, `expression-3.jpg` | Close-ups of two more *different* expressions (e.g. happy, skeptical, evil) — everything so far is the idle/sleepy face, so these would show the actual animation range. Say `/emotion <name>` over serial, or just ask REX to make a face, and shoot the screen. |
+| `case-angle.jpg` | 3/4 view of the enclosure from the *outside*, showing the exterior USB-C port — `from-behind.jpg` currently covers the back but not this. |
 | `scale.jpg` | REX next to something everyday (a hand, a mug, a laptop) so viewers can tell how big it actually is. |
 
 ## `video/`
