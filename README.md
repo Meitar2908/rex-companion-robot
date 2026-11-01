@@ -131,21 +131,6 @@ was chosen over a cheaper single-core alternative.
 - **Wake word**: TensorFlow Lite Micro, custom-trained via [microWakeWord](https://github.com/kahrendt/microWakeWord)
 - **Display**: [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
 
-## Building it yourself
-
-```sh
-cp src/Secrets.example.h src/Secrets.h   # fill in WiFi + API keys
-pio run                                   # build
-pio run -t upload                         # flash
-```
-
-`Secrets.h` is gitignored and needs WiFi credentials plus API keys for
-OpenAI (speech-to-text), Anthropic (Claude), and ElevenLabs (text-to-speech).
-Weather, time, places, sports, search, and the wake word all need no API key.
-
-Features are toggled via build flags in `platformio.ini`: `ENABLE_VOICE`,
-`ENABLE_AI`, `ENABLE_TTS`, `ENABLE_TOOLS`, `ENABLE_WAKEWORD`.
-
 ## Repo layout
 
 - `src/` — all firmware (C++/Arduino, PlatformIO)
