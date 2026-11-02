@@ -95,7 +95,7 @@ posed however you like — arms up or down, legs out to either side.
 
 ### From prototype to finished build
 
-| Printing the case | Early breadboard prototype | Hand-wired perfboard |
+| Printing the case | Early breadboard prototype | Hand-soldered perfboard |
 |---|---|---|
 | ![The case printing on a Bambu printer](media/photos/3d_printing_bts.jpg) | ![An early breadboard prototype with the display and mic](media/photos/early_process.jpg) | ![The ESP32-S3 perfboard, hand-soldered](media/photos/inside_esp32.jpg) |
 
