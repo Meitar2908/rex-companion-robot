@@ -10,15 +10,13 @@ microcontroller, no companion PC.**
 ![AI](https://img.shields.io/badge/personality-Claude-6B4FBB)
 ![license](https://img.shields.io/badge/license-MIT-lightgrey)
 
-![REX, front view](media/photos/hero.jpg)
+![REX, front view](media/photos/rex_main_photo.jpg)
 
 Say **"Hey REX"** and just talk to it. No app, no button, no PC — it
 listens, thinks, talks back, and reacts on an animated face, powered by an
 ESP32 the size of a stick of gum.
 
-![REX demo](media/video/demo.gif)
-
-*(Full conversation demo: [link to YouTube video here])*
+**[Watch REX in action](https://drive.google.com/file/d/1YCF7tVUBQWpwD_MZ__kD1XeX5-LFlLnb/view?usp=sharing)**
 
 ## What it is
 
@@ -60,17 +58,25 @@ WiFi and it still blinks and breathes; plug it back in and it's REX again.
 
 ## Gallery
 
-| Worried | Surprised | Internals |
+| Default | Angry | Confused |
 |---|---|---|
-| ![REX with a worried expression](media/photos/expression-worried.jpg) | ![REX with a surprised expression](media/photos/expression-surprised.jpg) | ![REX's internals — ESP32-S3, amp, and wiring inside the case](media/photos/internals.jpg) |
+| ![REX's default, idle expression](media/photos/rex_default_face.jpg) | ![REX looking angry](media/photos/angry_face.jpg) | ![REX looking confused](media/photos/confused_face.jpg) |
 
-![REX from behind, arms raised](media/photos/from-behind.jpg)
+| Sad | Surprised | Thinking |
+|---|---|---|
+| ![REX looking sad](media/photos/sad_face.jpg) | ![REX looking surprised](media/photos/surprised_face.jpg) | ![REX looking thoughtful](media/photos/thinking_face.jpg) |
+
+![REX from behind, showing the exterior USB-C connector port](media/photos/rex_connector_port.jpg)
+
+### Inside REX
+
+![REX's case opened up, showing the ESP32-S3, amp, and wiring](media/photos/rex_inside.jpg)
 
 ### From prototype to finished build
 
 | Printing the case | Early breadboard prototype | Hand-wired perfboard |
 |---|---|---|
-| ![The case printing on a Bambu printer](media/photos/build-printing.jpg) | ![An early breadboard prototype with the display and mic](media/photos/build-breadboard.jpg) | ![The ESP32-S3 perfboard, hand-soldered](media/photos/build-handheld.jpg) |
+| ![The case printing on a Bambu printer](media/photos/3d_printing_bts.jpg) | ![An early breadboard prototype with the display and mic](media/photos/early_process.jpg) | ![The ESP32-S3 perfboard, hand-soldered](media/photos/inside_esp32.jpg) |
 
 ## How it works
 
