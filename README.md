@@ -8,12 +8,17 @@ and a dry, sarcastic AI personality.**
 ![language](https://img.shields.io/badge/language-C%2B%2B17-00599C)
 ![AI](https://img.shields.io/badge/personality-Claude-6B4FBB)
 ![license](https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meitar%20Amir-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meitaramir)
 
 ![REX, front view](media/photos/rex_main_photo.jpg)
 
 Say **"Hey REX"** and just talk to it. No app, no button, no PC — it
 listens, thinks, talks back, and reacts on an animated face, powered by an
 ESP32 the size of a stick of gum.
+
+**Status:** Fully assembled and working end-to-end on real hardware —
+display, mic, speaker, WiFi, voice pipeline, personality, and wake word are
+all live and operating together, not just individually tested.
 
 **[Watch REX in action](https://drive.google.com/file/d/1YCF7tVUBQWpwD_MZ__kD1XeX5-LFlLnb/view?usp=sharing)**
 
