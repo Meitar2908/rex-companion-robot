@@ -8,7 +8,7 @@ microcontroller, no companion PC.**
 ![framework](https://img.shields.io/badge/framework-Arduino%20%2F%20PlatformIO-00979D)
 ![language](https://img.shields.io/badge/language-C%2B%2B17-00599C)
 ![AI](https://img.shields.io/badge/personality-Claude-6B4FBB)
-![license](https://img.shields.io/badge/license-MIT-lightgrey)
+![license](https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey)
 
 ![REX, front view](media/photos/rex_main_photo.jpg)
 
@@ -174,4 +174,5 @@ was chosen over a cheaper single-core alternative.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+All rights reserved — see [LICENSE](LICENSE). Shared publicly for portfolio
+and demonstration purposes only; no reuse is permitted without permission.
