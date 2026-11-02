@@ -72,6 +72,20 @@ WiFi and it still blinks and breathes; plug it back in and it's REX again.
 
 ![REX's case opened up, showing the ESP32-S3, amp, and wiring](media/photos/rex_inside.jpg)
 
+### Designed in Fusion 360
+
+| Full assembly | Front view |
+|---|---|
+| ![CAD model, isometric view](media/photos/cad_model_angle.png) | ![CAD model, front view](media/photos/cad_model_front.png) |
+
+| Internal mounting | Another angle |
+|---|---|
+| ![CAD cutaway showing the ESP32-S3 perfboard mount and mic/speaker cutouts](media/photos/cad_model_cutaway.png) | ![CAD model, alternate isometric view](media/photos/cad_model_iso.png) |
+
+Every arm and leg is a ball joint that rotates a full 360° in its socket, so
+REX can be posed however you like — arms up, head-height varied, whatever
+pose fits the moment.
+
 ### From prototype to finished build
 
 | Printing the case | Early breadboard prototype | Hand-wired perfboard |
@@ -106,7 +120,7 @@ collapses several seconds of dead air into something closer to real-time.
 | Mic | I2S MEMS mic (INMP441-class) |
 | Amp + speaker | MAX98357A I2S amp, 4Ω 3W speaker |
 | Power | 5V/2A USB-C wall adapter |
-| Enclosure | 3D-printed case, exterior USB-C breakout for firmware updates |
+| Enclosure | 3D-printed case, exterior USB-C breakout for firmware updates, 360°-rotating ball-jointed arms and legs |
 
 The S3 has two independent I2S controllers, so mic capture and speaker
 playback run simultaneously with zero contention — one of the reasons it
