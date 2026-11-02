@@ -5,15 +5,16 @@ automatically — no need to edit any links.
 
 ## `photos/`
 
-Have: `hero.jpg`, `idle-angle.jpg`, `expression-sleepy.jpg`, `from-behind.jpg`,
-`internals.jpg`.
+Have: `hero.jpg`, `expression-worried.jpg`, `expression-surprised.jpg`,
+`internals.jpg`, `from-behind.jpg`, `build-printing.jpg`,
+`build-breadboard.jpg`, `build-handheld.jpg`.
 
 Still worth adding:
 
 | Filename | Shot |
 |---|---|
-| `expression-2.jpg`, `expression-3.jpg` | Close-ups of two more *different* expressions (e.g. happy, skeptical, evil) — everything so far is the idle/sleepy face, so these would show the actual animation range. Say `/emotion <name>` over serial, or just ask REX to make a face, and shoot the screen. |
-| `case-angle.jpg` | 3/4 view of the enclosure from the *outside*, showing the exterior USB-C port — `from-behind.jpg` currently covers the back but not this. |
+| `expression-happy.jpg` or similar | One more clearly *positive* expression — everything so far reads worried/surprised/neutral, so a happy or smug one would round out the range. |
+| `case-angle.jpg` | 3/4 view of the enclosure from the *outside*, showing the exterior USB-C port. |
 | `scale.jpg` | REX next to something everyday (a hand, a mug, a laptop) so viewers can tell how big it actually is. |
 
 ## `video/`

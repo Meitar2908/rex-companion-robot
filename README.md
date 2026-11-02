@@ -60,11 +60,17 @@ WiFi and it still blinks and breathes; plug it back in and it's REX again.
 
 ## Gallery
 
-| Idle | Sleepy | Behind the scenes |
+| Worried | Surprised | Internals |
 |---|---|---|
-| ![REX idle, angled view](media/photos/idle-angle.jpg) | ![REX with a sleepy expression](media/photos/expression-sleepy.jpg) | ![REX's internals — ESP32-S3, amp, and wiring inside the case](media/photos/internals.jpg) |
+| ![REX with a worried expression](media/photos/expression-worried.jpg) | ![REX with a surprised expression](media/photos/expression-surprised.jpg) | ![REX's internals — ESP32-S3, amp, and wiring inside the case](media/photos/internals.jpg) |
 
-![REX from behind, case and cable routing](media/photos/from-behind.jpg)
+![REX from behind, arms raised](media/photos/from-behind.jpg)
+
+### From prototype to finished build
+
+| Printing the case | Early breadboard prototype | Hand-wired perfboard |
+|---|---|---|
+| ![The case printing on a Bambu printer](media/photos/build-printing.jpg) | ![An early breadboard prototype with the display and mic](media/photos/build-breadboard.jpg) | ![The ESP32-S3 perfboard, hand-soldered](media/photos/build-handheld.jpg) |
 
 ## How it works
 
