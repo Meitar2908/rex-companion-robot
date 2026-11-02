@@ -64,7 +64,7 @@ WiFi and it still blinks and breathes; plug it back in and it's REX again.
 
 | Sad | Surprised | Smug |
 |---|---|---|
-| ![REX looking sad](media/photos/sad_face.jpg) | ![REX looking surprised](media/photos/surprised_face.jpg) | ![REX looking smug](media/photos/thinking_face.jpg) |
+| ![REX looking sad](media/photos/sad_face.jpg) | ![REX looking surprised](media/photos/surprised_face.jpg) | ![REX looking smug](media/photos/smug_face.jpg) |
 
 ![REX from behind, showing the exterior USB-C connector port](media/photos/rex_connector_port.jpg)
 
