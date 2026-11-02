@@ -132,6 +132,7 @@ collapses several seconds of dead air into something closer to real-time.
 | Amp + speaker | MAX98357A I2S amp, 4Ω 3W speaker |
 | Power | 5V/2A USB-C wall adapter |
 | Enclosure | 3D-printed case, exterior USB-C breakout for firmware updates, 360°-rotating ball-jointed arms and legs |
+| Dimensions | ~164mm tall × ~165mm wide, including antenna and arms |
 
 The S3 has two independent I2S controllers, so mic capture and speaker
 playback run simultaneously with zero contention — one of the reasons it
