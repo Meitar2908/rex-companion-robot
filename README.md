@@ -82,6 +82,14 @@ WiFi and it still blinks and breathes; plug it back in and it's REX again.
 |---|---|
 | ![CAD cutaway showing the ESP32-S3 perfboard mount and mic/speaker cutouts](media/photos/cad_model_cutaway.png) | ![CAD model, alternate isometric view](media/photos/cad_model_iso.png) |
 
+The case wasn't designed around a generic robot shape — it was built around
+the hardware REX actually uses. The front cutout is sized to the exact
+3.2" ILI9341 panel, and the interior cavity was shaped to fit the
+hand-soldered perfboard, speaker, and mic snugly rather than leaving generic
+empty space inside. The electronics themselves were soldered point-to-point
+specifically to fit that footprint, not assembled from an off-the-shelf
+carrier board.
+
 Every arm and leg's joint rotates a full 360° in its socket, so REX can be
 posed however you like — arms up or down, legs out to either side.
 
