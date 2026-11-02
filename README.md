@@ -82,9 +82,8 @@ WiFi and it still blinks and breathes; plug it back in and it's REX again.
 |---|---|
 | ![CAD cutaway showing the ESP32-S3 perfboard mount and mic/speaker cutouts](media/photos/cad_model_cutaway.png) | ![CAD model, alternate isometric view](media/photos/cad_model_iso.png) |
 
-Every arm and leg is a ball joint that rotates a full 360° in its socket, so
-REX can be posed however you like — arms up, head-height varied, whatever
-pose fits the moment.
+Every arm and leg's joint rotates a full 360° in its socket, so REX can be
+posed however you like — arms up or down, legs out to either side.
 
 ### From prototype to finished build
 
