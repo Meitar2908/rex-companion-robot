@@ -1,8 +1,7 @@
 # REX
 
 **A standalone desktop robot with an animated face, full voice conversation,
-and a dry, sarcastic AI personality — entirely self-contained on one
-microcontroller.**
+and a dry, sarcastic AI personality.**
 
 ![platform](https://img.shields.io/badge/platform-ESP32--S3-blue)
 ![framework](https://img.shields.io/badge/framework-Arduino%20%2F%20PlatformIO-00979D)
