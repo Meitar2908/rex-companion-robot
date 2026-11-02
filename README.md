@@ -76,11 +76,11 @@ WiFi and it still blinks and breathes; plug it back in and it's REX again.
 
 | Full assembly | Front view |
 |---|---|
-| ![CAD model, isometric view](media/photos/cad_model_angle.png) | ![CAD model, front view](media/photos/cad_model_front.png) |
+| ![CAD model, isometric view](media/photos/cad_model_iso.png) | ![CAD model, front view](media/photos/cad_model_front.png) |
 
-| Internal mounting | Another angle |
+| Internal mounting | Back view |
 |---|---|
-| ![CAD cutaway showing the ESP32-S3 perfboard mount and mic/speaker cutouts](media/photos/cad_model_cutaway.png) | ![CAD model, alternate isometric view](media/photos/cad_model_iso.png) |
+| ![CAD cutaway showing the ESP32-S3 perfboard mount and mic/speaker cutouts](media/photos/cad_model_cutaway.png) | ![CAD model, back view showing the vents and USB-C port cutout](media/photos/cad_model_angle.png) |
 
 The case wasn't designed around a generic robot shape — it was built around
 the hardware REX actually uses. The front cutout is sized to the exact
