@@ -155,6 +155,7 @@ was chosen over a cheaper single-core alternative.
 - **AI**: [Claude](https://www.anthropic.com/claude) (personality + tool use), OpenAI (speech-to-text), ElevenLabs (text-to-speech)
 - **Wake word**: TensorFlow Lite Micro, custom-trained via [microWakeWord](https://github.com/kahrendt/microWakeWord)
 - **Display**: [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
+- **Enclosure**: Fusion 360 (CAD), 3D printed
 
 ## Repo layout
 
